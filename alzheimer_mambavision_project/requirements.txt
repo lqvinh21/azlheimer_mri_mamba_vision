@@ -1,0 +1,11 @@
+# Install torch/torchvision separately to match the workstation CUDA build.
+timm==1.0.15
+einops==0.8.2
+transformers==4.50.0
+requests==2.32.3
+Pillow==11.1.0
+ninja
+packaging
+scikit-learn
+tqdm
+matplotlib
